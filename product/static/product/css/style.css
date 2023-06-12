@@ -1,0 +1,39 @@
+.hover_btn_circle:hover {
+    width: 50px;
+    height: 50px;
+    transform: rotate(360deg);
+    transition: all 3s;
+    border-radius: 100%;
+}
+
+.icon-shape {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.icon-sm {
+    width: 2rem;
+    height: 2rem;
+}
+
+.test {
+    font-style: italic;
+    color: aqua;
+    font-weight: bolder;
+}
+
+.icon-shape {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.icon-sm {
+    width: 2rem;
+    height: 2rem;
+}
