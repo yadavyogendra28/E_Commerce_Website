@@ -22,7 +22,6 @@ urlpatterns = [
     path("Search_data",views.Search_method,name="search"),
     path("Rating_Review",views.Rating_Review_method),
 
-
     path('User_login',include('product.urls')), # login function in my app 
     
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
