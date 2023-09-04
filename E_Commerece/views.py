@@ -44,7 +44,7 @@ def SignUP_method(req):
 
 
 
-# # Login funcrion ::
+  #   # Login funcrion ::
 
 # def User_login(req):
 #       if req.method=="POST":
